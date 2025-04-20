@@ -1,2 +1,3 @@
-# 🔁 Folgeaufgabe: Vielfache von 3
-# 🧠 range(start, end, step)
+# Lösung Folgeaufgabe:
+for i in range(3,101,3):
+    print(i)

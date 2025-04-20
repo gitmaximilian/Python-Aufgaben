@@ -1,2 +1,2 @@
-# 🔢 6. Zahlen von 1 bis 100 ausgeben
-# 🧠 for, range, print()
+for i in range(1,101):
+    print(i)
